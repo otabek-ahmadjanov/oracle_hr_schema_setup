@@ -26,7 +26,7 @@ This repository contains SQL scripts to fully create the HR schema in Oracle Dat
 02_create_objects.sql
 ```
 
-### 3. Still under HR and run scripts in this file:
+### 3. Still under HR run scripts in this file:
 ```sql
 03_insert_data.sql
 ```
